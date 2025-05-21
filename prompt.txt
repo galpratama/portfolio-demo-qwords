@@ -1,0 +1,19 @@
+https://chatgpt.com/share/682dd4c4-98d4-8009-abbc-7e4c5c413faf
+
+Generate a basic responsive HTML page with Tailwind CSS (Play CDN). Include a `nav`, `main`, and `footer` tag structure.
+
+Create a responsive navbar using Tailwind CSS. The navbar should have a logo on the left ("Galih Pratama") and navigation links on the right: Home, About, Skills, Portfolio, Contact. Highlight "Contact" in blue. On small screens, collapse into a hamburger menu.
+
+Create a responsive hero section using Tailwind CSS. On large screens, split into two columns: left side contains "Hi, I am Galih", a short subtitle "I am a front-end developer", and a "Learn More" button. The right side should have a circular placeholder image. Stack elements vertically on mobile.
+
+Create a responsive "About Me" section using Tailwind CSS with a title and paragraph text. Use max width for text readability and center content on small screens. Add some spacing and padding for comfort.
+
+Create a "Skills" section using Tailwind CSS with two skill cards: "Backend Development" and "Frontend Development". Each card should include a title and a short description. Use flexbox or grid, responsive for small screens (stacked) and large screens (side by side).
+
+Create a "Portfolio" section using Tailwind CSS. Include three project cards, each with a colored image placeholder, a project title, and a short description. Make it responsive so cards stack vertically on small screens and appear side-by-side on large screens.
+
+Create a "Contact Me" section using Tailwind CSS. On large screens, split into two columns: left column for contact intro text, right column for a contact form with fields: Name, Email, and Message, plus a Submit button. Make it mobile-friendly by stacking the columns.
+
+Create a responsive footer using Tailwind CSS. Include © 2025 on the left and "Galih Pratama" on the right. Align content in a row on larger screens, stack vertically on smaller screens.
+
+Make sure the entire page is responsive with appropriate padding (`p-4`, `p-8`), spacing (`space-y-4`, `gap-6`), and breakpoints (`sm:`, `md:`, `lg:`) using Tailwind CSS utilities.
